@@ -11,6 +11,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+   This is the changed file for merge
 ```
 
 _© 2022 XYZ, Inc._
